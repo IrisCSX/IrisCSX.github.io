@@ -1,6 +1,6 @@
 name: Sigua
 markdown: kramdown
-theme: jekyll-whiteglass
+# theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-paginate
